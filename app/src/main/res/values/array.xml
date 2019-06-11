@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="string_array">
+        <item>Ross</item>
+        <item>Rachel</item>
+        <item>Monica</item>
+        <item>Chandler</item>
+        <item>Phoebe</item>
+        <item>Joey</item>
+        <item>Emily</item>
+        <item>Rechard</item>
+        <item>Kathy</item>
+        <item>Joshua</item>
+        <item>Frank</item>
+        <item>Alice</item>
+        <item>Paolo</item>
+        <item>Susan</item>
+        <item>Carol</item>
+        <item>Ban</item>
+        <item>Janice</item>
+        <item>Gunther</item>
+        <item>Paul</item>
+        <item>Pete</item>
+        <item>Julie</item>
+        <item>Heckles</item>
+        <item>Berry</item>
+
+
+    </string-array>
+
+
+
+
+<integer-array name="number">
+    <item>67</item>
+    <item>25</item>
+    <item>98</item>
+    <item>26</item>
+    <item>88</item>
+    <item>99</item>
+    <item>34</item>
+    <item>36</item>
+    <item>87</item>
+    <item>48</item>
+    <item>35</item>
+    <item>17</item>
+    <item>68</item>
+    <item>46</item>
+    <item>32</item>
+    <item>67</item>
+    <item>34</item>
+    <item>11</item>
+    <item>28</item>
+    <item>39</item>
+    <item>16</item>
+    <item>59</item>
+    <item>54</item>
+
+
+</integer-array>
+</resources>

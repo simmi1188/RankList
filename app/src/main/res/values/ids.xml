@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="string_aaray" type="id" />
+    <item name="markdsec" type="id" />
+    <item name="markasec" type="id" />
+    <item name="maximum" type="id" />
+</resources>

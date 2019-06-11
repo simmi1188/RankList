@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RankList</string>
+    <string name="name">F.R.I.E.N.D.S</string>
+    <string name="radioPass">Pass</string>
+    <string name="radioFail">Fail</string>
+    <string name="radioAll">All</string>
+    <string name="radiobutton1">RadioButton1</string>
+    <string name="radiobutton2">RadioButton2</string>
+    <string name="radiobutton3">RadioButton3</string>
+    <string name="no_result_found">No Result Found</string>
+</resources>
